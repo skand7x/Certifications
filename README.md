@@ -1,7 +1,7 @@
 # Certifications
 This repository contains all my certifications.
 
-![HARVARD](DOCS/Harvard.jpg)
+![HARVARD](DOCS/harvard.jpg)
 
 ![AI](DOCS/AI_page-0001.jpg)
 
